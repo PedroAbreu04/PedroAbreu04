@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil do Pedro Abreu 😁
+<script src="https://kit.fontawesome.com/7425c16c60.js" crossorigin="anonymous"></script>
 
  <div>
    <a href="https://github.com/PedroAbreu04">
@@ -11,6 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+ <i class="fa-brands fa-bootstrap"></i>
 </div>
  
  <br>
