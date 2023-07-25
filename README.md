@@ -1,8 +1,11 @@
 ## Bem-vindo(a) ao perfil do Pedro Abreu 😁
- <div align="center">
+<div align="center">
   <a href="https://github.com/PedroAbreu04">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroAbreu04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroAbreu04&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="right" height="402px" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAbreu04&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
+<div align="left">
+  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=PedroAbreu04&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />  
+  <img height="192px" src="https://github-readme-stats.vercel.app/api/wakatime?username=PedroAbreu04&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
+</div>
 </div>
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,13 +19,4 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 </div>
   
-  ##
  
-<div> 
-  <a href="https://www.instagram.com/pedroabreua04/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:pedroabreudealmeida@gmail.com" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedroabreua/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  
-   ![Snake animation](https://github.com/PedroAbreu04/PedroAbreu04/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
