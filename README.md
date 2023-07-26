@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Pedro Abreu 😁
   <a href="https://github.com/PedroAbreu04">
     <div>
-          <img align="right" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAbreu04&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
-        <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=PedroAbreu04&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+          <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAbreu04&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
+        <img align="left" width="455px" src="https://github-readme-stats.vercel.app/api?username=PedroAbreu04&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
     </div>
     <table align="left"> 
       <tr align="center">
