@@ -83,10 +83,10 @@
            </sub>
         </td>
         <td>
-          <img src="https://skillicons.dev/icons?i=github" width="45px" alt="GitHub icon"/>
+          <img src="https://skillicons.dev/icons?i=sass" width="45px" alt="Sass icon"/>
            <sub>
              <b>
-               <pre>GitHub</pre>
+               <pre>Sass</pre>
              </b>
            </sub>
         </td>
