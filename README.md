@@ -40,14 +40,6 @@
              </b>
            </sub>
         </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="45px" alt="Bootstrap icon"/>
-           <sub>
-             <b>
-               <pre>Bootstrap</pre>
-             </b>
-           </sub>
-        </td>
       </tr>
       <tr align="center">
         <td>
@@ -67,10 +59,10 @@
            </sub>
         </td>
         <td>
-          <img src="https://skillicons.dev/icons?i=jquery" width="45px" alt="Jquery icon"/>
+          <img src="https://skillicons.dev/icons?i=flutter" width="45px" alt="Flutter icon"/>
            <sub>
              <b>
-               <pre>Jquery</pre>
+               <pre>Flutter</pre>
              </b>
            </sub>
         </td>
@@ -79,14 +71,6 @@
            <sub>
              <b>
                <pre>Git</pre>
-             </b>
-           </sub>
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=sass" width="45px" alt="Sass icon"/>
-           <sub>
-             <b>
-               <pre>Sass</pre>
              </b>
            </sub>
         </td>
