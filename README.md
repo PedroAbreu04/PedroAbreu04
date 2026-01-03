@@ -1,6 +1,4 @@
 ## Bem-vindo(a) ao perfil do Pedro Abreu 😁
-  <a href="https://github.com/PedroAbreu04">
-    &nbsp;
    <div>
     <table align="left"> 
       <tr align="center">
